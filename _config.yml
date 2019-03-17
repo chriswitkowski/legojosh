@@ -11,3 +11,32 @@ remote_theme: chriswitkowski/forty-jekyll-theme
 gfm_quirks: paragraph_end
 title: Welcome to Lego Josh!
 description: A site to share my adventures
+
+# site settings
+title: Welcome to LEGO Josh!
+description: An outlet for Joshua's creative musings'.
+email: kristopherwitkowski@gmail.com
+baseurl: 
+author: Chris Witkowski
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
+
+# homepage tiles
+tiles-source: # accepts "posts" or "pages"
+tiles-count:
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: 
+googleplus_url:
+instagram_url: 
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url:
