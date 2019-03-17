@@ -47,7 +47,7 @@ show_tile: true
 				<header class="major">
 					<h3>Joshua</h3>
 				</header>
-				<p>Joshua is a first grader who loves building LEGO's, going to the climbing park, video games and You Tube.  You can check out his You Tube Channel at LEGOJosh</p>
+				<p>Joshua is a first grader who loves building LEGO's, going to the climbing park, video games and You Tube.  You can check out his You Tube Channel at "[LEGOJosh](https://www.youtube.com/channel/UCztqDUNin-BGuL2mrb-PpYw)"</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
