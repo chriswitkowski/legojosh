@@ -12,8 +12,8 @@ title: Welcome to Lego Josh!
 description: A site to share my adventures
 
 # site settings
-title: Welcome to LEGO Josh!
-description: An outlet for Joshua's creative musings'.
+title: Welcome to the Witkowski Family Blog!
+description: An outlet for our family's digital creative musings'.
 email: kristopherwitkowski@gmail.com
 baseurl: 
 author: Chris Witkowski
@@ -25,8 +25,8 @@ country:
 phone:
 
 # homepage tiles
-tiles-source: # accepts "posts" or "pages"
-tiles-count:
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 3
 
 # social settings
 500px_url:

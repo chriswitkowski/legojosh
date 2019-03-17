@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is LEGO Josh!'
+landing-title: 'Welcome to the Witkowski family blog'
 description: null
 image: null
 author: null
