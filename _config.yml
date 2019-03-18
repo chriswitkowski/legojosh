@@ -8,13 +8,13 @@ jailed: false
 plugins:
   - jekyll-remote-theme
 gfm_quirks: paragraph_end
-title: Welcome to Lego Josh!
+title: Welcome to Our Family Blog!
 description: A site to share my adventures
 
 # site settings
-title: Welcome to the Witkowski Family Blog!
+title: Welcome to Our Family Blog!
 description: An outlet for our family's digital creative musings'.
-email: kristopherwitkowski@gmail.com
+email: 
 baseurl: 
 author: Chris Witkowski
 street_address:

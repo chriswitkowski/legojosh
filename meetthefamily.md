@@ -16,7 +16,7 @@ show_tile: true
 		<header class="major">
 			<h2>Introduction</h2>
 		</header>
-		<p>Welcome to our blog site!  We don't take ourselves too seriously, this is just our digital playground we want to share with you!'</p>
+		<p>Welcome to our blog site!  We don't take ourselves too seriously, this is just our digital playground we want to share with you!</p>
 	</div>
 </section>
 

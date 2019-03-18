@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to the Witkowski family blog'
+landing-title: 'Welcome to our family blog'
 description: null
 image: null
 author: null
