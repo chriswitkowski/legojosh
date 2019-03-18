@@ -1,5 +1,5 @@
 ---
 ---
-# Lego Josh
+# Our South Bay Family
 
-Use this site as a blog for Joshua's creative ambition
+Use this site as a home base for our family's creative ambitions.
