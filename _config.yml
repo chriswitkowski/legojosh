@@ -8,12 +8,12 @@ jailed: false
 plugins:
   - jekyll-remote-theme
 gfm_quirks: paragraph_end
-title: Welcome to Our Family Blog!
-description: A site to share my adventures
+title: Our South Bay Family
+description: A site to share our family adventures
 
 # site settings
-title: Welcome to Our Family Blog!
-description: An outlet for our family's digital creative musings'.
+title: Our South Bay Family
+description: A creative outlet for our family's digital, virtual and live musings.
 email: 
 baseurl: 
 author: Chris Witkowski

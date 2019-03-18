@@ -1,5 +1,5 @@
 ---
-title: 'Meet the Family'
+title: 'Meet Our Family'
 layout: landing
 description:
 image: assets/images/pebblebeach.jpg
@@ -16,7 +16,7 @@ show_tile: true
 		<header class="major">
 			<h2>Introduction</h2>
 		</header>
-		<p>Welcome to our blog site!  We don't take ourselves too seriously, this is just our digital playground we want to share with you!</p>
+		<p>Welcome to our blog site!  We try not to take ourselves too seriously, this is just our digital playground that we want to share with you as we navigate life's joys and adventures in the South Bay Area of Silicon Valley!</p>
 	</div>
 </section>
 
