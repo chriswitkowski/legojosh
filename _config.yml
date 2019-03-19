@@ -26,17 +26,17 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 6
 
 # social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/oursouthbayfamily/
 github_url:
 gitlab_url: 
 googleplus_url:
-instagram_url: 
+instagram_url: https://www.instagram.com/oursouthbayfamily/
 linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url:
+twitter_url: https://www.twitter.com/our_south
 youtube_url: https://www.youtube.com/channel/UCztqDUNin-BGuL2mrb-PpYw

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome to 'Our South Bay Family''
+landing-title: "Welcome to Our South Bay Family"
 description: null
 image: assets/images/IMG_0011.jpg
 author: null
